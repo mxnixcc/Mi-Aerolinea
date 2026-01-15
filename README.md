@@ -1,2 +1,2 @@
-Aereolinea con análisis de datos realizados en R
+Aereolinea con análisis de datos realizados en R.
 
